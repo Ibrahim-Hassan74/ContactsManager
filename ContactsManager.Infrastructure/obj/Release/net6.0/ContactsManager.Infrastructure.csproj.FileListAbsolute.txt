@@ -1,0 +1,15 @@
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\bin\Release\net6.0\ContactsManager.Infrastructure.deps.json
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\bin\Release\net6.0\ContactsManager.Infrastructure.dll
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\bin\Release\net6.0\ContactsManager.Infrastructure.pdb
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\bin\Release\net6.0\ContactsManager.Core.dll
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\bin\Release\net6.0\ContactsManager.Core.pdb
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ContactsManager.Infrastructure.csproj.AssemblyReference.cache
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ContactsManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ContactsManager.Infrastructure.AssemblyInfoInputs.cache
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ContactsManager.Infrastructure.AssemblyInfo.cs
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ContactsManager.Infrastructure.csproj.CoreCompileInputs.cache
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\Contacts.2BC572B3.Up2Date
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ContactsManager.Infrastructure.dll
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\refint\ContactsManager.Infrastructure.dll
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ContactsManager.Infrastructure.pdb
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Infrastructure\obj\Release\net6.0\ref\ContactsManager.Infrastructure.dll

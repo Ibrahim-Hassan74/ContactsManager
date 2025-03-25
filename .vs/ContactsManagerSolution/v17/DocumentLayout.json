@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\aspnetcore\\code\\ContactsManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171AB8C4-B8DA-4284-B1BA-26FFAE691A18}|ContactsManager.UI\\ContactsManager.UI.csproj|e:\\aspnetcore\\code\\contactsmanagersolution\\contactsmanager.ui\\properties\\publishprofiles\\ftpprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{171AB8C4-B8DA-4284-B1BA-26FFAE691A18}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\properties\\publishprofiles\\ftpprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171AB8C4-B8DA-4284-B1BA-26FFAE691A18}|ContactsManager.UI\\ContactsManager.UI.csproj|e:\\aspnetcore\\code\\contactsmanagersolution\\contactsmanager.ui\\properties\\publishprofiles\\site21126-webdeploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{171AB8C4-B8DA-4284-B1BA-26FFAE691A18}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\properties\\publishprofiles\\site21126-webdeploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f075e29-6b1d-495a-83da-93eb851d2bdc\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171AB8C4-B8DA-4284-B1BA-26FFAE691A18}|ContactsManager.UI\\ContactsManager.UI.csproj|e:\\aspnetcore\\code\\contactsmanagersolution\\contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{171AB8C4-B8DA-4284-B1BA-26FFAE691A18}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 413,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FTPProfile.pubxml",
+              "DocumentMoniker": "E:\\aspnetcore\\code\\ContactsManagerSolution\\ContactsManager.UI\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "ToolTip": "E:\\aspnetcore\\code\\ContactsManagerSolution\\ContactsManager.UI\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "RelativeToolTip": "ContactsManager.UI\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-25T04:05:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site21126-WebDeploy.pubxml",
+              "DocumentMoniker": "E:\\aspnetcore\\code\\ContactsManagerSolution\\ContactsManager.UI\\Properties\\PublishProfiles\\site21126-WebDeploy.pubxml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Properties\\PublishProfiles\\site21126-WebDeploy.pubxml",
+              "ToolTip": "E:\\aspnetcore\\code\\ContactsManagerSolution\\ContactsManager.UI\\Properties\\PublishProfiles\\site21126-WebDeploy.pubxml",
+              "RelativeToolTip": "ContactsManager.UI\\Properties\\PublishProfiles\\site21126-WebDeploy.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-25T04:05:24.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f075e29-6b1d-495a-83da-93eb851d2bdc\\secrets.json",
+              "ToolTip": "C:\\Users\\ibrah\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f075e29-6b1d-495a-83da-93eb851d2bdc\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T03:55:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\aspnetcore\\code\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\appsettings.json",
+              "ToolTip": "E:\\aspnetcore\\code\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeToolTip": "ContactsManager.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T03:08:08.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

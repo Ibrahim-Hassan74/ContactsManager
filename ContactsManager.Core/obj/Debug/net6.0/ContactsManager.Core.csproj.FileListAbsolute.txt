@@ -1,0 +1,12 @@
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfoInputs.cache
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfo.cs
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.AssemblyReference.cache
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.deps.json
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.dll
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.pdb
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.dll
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\refint\ContactsManager.Core.dll
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.pdb
+E:\aspnetcore\code\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ref\ContactsManager.Core.dll
